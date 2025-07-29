@@ -1,3 +1,6 @@
+setuptools>=65
+wheel
+
 Flask==2.3.3
 googlemaps==4.10.0
 polyline==2.0.0
